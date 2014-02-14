@@ -1,3 +1,3 @@
 # user-documents
 
-Store documents on local filesystem or S3.
+Store files on filesystem or S3. Useful for web uploads
