@@ -1,0 +1,21 @@
+{
+  "name": "user-documents",
+  "version": "0.0.1",
+  "description": "User documents storage locally and in S3. Useful for uploads.",
+  "keywords": [
+    "storage",
+    "s3",
+    "filesystem"
+  ],
+  "author": "Roman Kalyakin <roman@kalyakin.com>",
+  "devDependencies": {},
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theorm/user-documents.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "knox": "~0.8.9"
+  }
+}
